@@ -1,3 +1,4 @@
+This notebook was created in support of the [following project.](https://github.com/ShuranXu/UofT-Fintech-Group-1)
 # Sentiment Analysis on Trump Tweets
 
 ## Objective
